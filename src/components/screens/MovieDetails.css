@@ -1,0 +1,51 @@
+.singlePage1 {
+    background-color: #141414;
+    color: #fff;
+    text-align: center;
+}
+
+.singleHeading1 {
+    background-color: #1e272d;
+    padding: 15px 0;
+    text-align: center;
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.singleHeading1 h1 {
+    text-transform: uppercase;
+    font-size: 30px;
+}
+
+.singleHeading1 span {
+    word-spacing: 5px;
+    margin-left: 10px;
+}
+
+.singleHeading1 .container {
+    max-width: 80%;
+    margin: auto;
+}
+
+
+.singlePage1 h3 {
+    font-weight: 400;
+}
+
+.singlePage1 p {
+    line-height: 25px;
+    margin-top: 20px;
+}
+
+.para{
+    margin-top: 20px;
+}
+
+.btn1 {
+    background-color: blue;
+}
+.btn1:focus{
+    background-color: pink;
+}
